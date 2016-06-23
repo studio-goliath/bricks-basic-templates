@@ -1,0 +1,16 @@
+@media (min-width: 48em) {
+    .brick-row {
+        overflow: hidden;
+    }
+    .brick-col-half-width {
+        box-sizing: border-box;
+        float: left;
+        width: 48%;
+    }
+    .brick-col-left{
+        padding-right: 2%;
+    }
+    .brick-col-right{
+        padding-left: 2%;
+    }
+}
